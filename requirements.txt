@@ -113,6 +113,7 @@ Send2Trash==2.1.0
 six==1.17.0
 soupsieve==2.8.3
 stack-data==0.6.3
+ta==0.11.0
 TA-Lib==0.6.8
 terminado==0.18.1
 textblob==0.19.0
@@ -133,5 +134,6 @@ webencodings==0.5.1
 websocket-client==1.9.0
 websockets==15.0.1
 widgetsnbextension==4.0.15
+wordcloud==1.9.6
 yfinance==1.2.0
 zipp==3.23.1
